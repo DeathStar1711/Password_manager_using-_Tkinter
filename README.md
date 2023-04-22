@@ -1,4 +1,4 @@
-# Day 29 - Building a Password Manager GUI App with Tkinter
+# Password Manager GUI App with Tkinter
 ## Concepts Used
 - Working with Images and Setting up the Canvas
 - Use grid() and columnspan to Complete the User Interface
